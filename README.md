@@ -13,7 +13,7 @@ AI-Assist 추론 결과를 활용한 BBOX 작업 난이도 분류 및 엑셀 추
 
 ## Example
 
-![스크린샷 2022-03-03 오후 3.03.19](/Users/sean/Library/Application Support/typora-user-images/스크린샷 2022-03-03 오후 3.03.19.png)
+<img width="920" alt="example" src="https://user-images.githubusercontent.com/69578563/156510750-989a2550-eb04-457b-8182-d3b1b4fc322e.png">
 
 
 
